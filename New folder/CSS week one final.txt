@@ -1,0 +1,20 @@
+!--Feel free to copy this code into your own text editor for modification i.e. Visual Studio Code-->
+<!DOCTYPE html>
+<html>
+
+  <!--This is where the site information (metadata) goes. 
+  This is not visible to viewers.-->
+  <head>
+    
+  </head>
+
+  <!--This is where the page content goes. This is visible to viewers.-->
+  <body>
+    <
+    Start by changing this text and view the output in the results area.
+    
+  </body>
+
+
+</html>
+
